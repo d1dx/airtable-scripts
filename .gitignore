@@ -1,3 +1,10 @@
 .mcp.json
 .claude/settings.json
 deploy/ntfy.conf
+.env
+credentials.json
+*.har
+*.pem
+*.key
+GEMINI.md
+.gemini/settings.json
